@@ -7,4 +7,8 @@ package aularorganizacao;
  */
 public class ClasseTeste {
     gdfhlfkjlk;
+    
+    public jhsd (){
+        sfsfs;
+    }
 }
